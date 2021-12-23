@@ -47,7 +47,7 @@ const Header = () => {
             swal("Error", window.ethereum.selectedAddress)
             setTimeout(handleEthereum, 3000);
 
-            // If the event is not dispatched by the end of the timeout,
+            // If the event is not dispatched by the end of the timeout,cccc
             // the user probably doesn't have MetaMask installed.
             // setTimeout(handleEthereum, 3000); // 3 seconds
         }
