@@ -54,7 +54,7 @@ const Bridge = (props) => {
             const web3 = new Web3(window.givenProvider)
             if (typeof window.ethereum !== 'undefined') {
                 console.log('MetaMask is installed!');
-                const accounts = ethereum.request({ method: 'eth_requestAccounts' })
+                const accounts = window.ethereum.request({ method: 'eth_requestAccounts' })
             }
             else {
                 swal("Error", "Make sure You have MetaMask Installed");

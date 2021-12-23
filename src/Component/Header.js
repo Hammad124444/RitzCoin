@@ -25,8 +25,8 @@ const Header = () => {
         //     swal("Error", "Make sure You have MetaMask Installed");
         // }
         if (window.ethereum) {
-            if (ethereum && ethereum.isMetaMask) {
-                ethereum.request({ method: 'eth_requestAccounts' })
+            if (window.ethereum && window.ethereum.isMetaMask) {
+                window.ethereum.request({ method: 'eth_requestAccounts' })
                 setAccount(window.ethereum.selectedAddress)
                
              } else {
@@ -43,7 +43,7 @@ const Header = () => {
                 
               });
               window.location = 'https://metamask.app.link/dapp/192.168.1.19:3000';
-              ethereum.request({ method: 'eth_requestAccounts' })
+              window.ethereum.request({ method: 'eth_requestAccounts' })
 
               setTimeout(handleEthereum, 3000);
           
