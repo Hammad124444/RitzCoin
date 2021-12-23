@@ -21,11 +21,11 @@ const Bridge = (props) => {
     const [selectValue, setSelectValue] = useState(['ETH', 'BSC'])
     const [inputValue, setInputValue] = useState('')
     const handleDropdownChange = (e) => {
-        setSelectValue(e.target.value.split(',')[1].split('-TO-'))
+        setSelectValue(e.target.value[1].split('-TO-'))
         setAccount(window.ethereum.selectedAddress)
-        let availableNetwork = AVAILABLE_NETWORKS[e.target.value.split(',')[0]];
+        let availableNetwork = AVAILABLE_NETWORKS[e.target.value[0]];
         if (window.ethereum.selectedAddress) {
-            if (e.target.value[0] == 5 || e.target.value[0] == 1) {
+            if (e.target.value.slice(0,2) == 56 || e.target.value.slice(0,3) == 137) {
                 if (window.ethereum.networkVersion == 4) {
                     window.ethereum
                         .request({
@@ -106,8 +106,6 @@ const Bridge = (props) => {
             alert('Connect wallet first')
         }
     }
-useEffect(() => {
-}, [account])
     return (
         <div className="bridge">
             <div className="form-wrapper">
