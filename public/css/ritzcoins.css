@@ -1,0 +1,1470 @@
+@font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/da1118/00000000000000007735e5cc/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/da1118/00000000000000007735e5cc/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/da1118/00000000000000007735e5cc/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+    font-display:auto;font-style:normal;font-weight:500;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/55b689/00000000000000007735e5c9/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff2"),url("https://use.typekit.net/af/55b689/00000000000000007735e5c9/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("woff"),url("https://use.typekit.net/af/55b689/00000000000000007735e5c9/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n2&v=3") format("opentype");
+    font-display:auto;font-style:normal;font-weight:200;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/24665b/00000000000000007735e5c3/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/24665b/00000000000000007735e5c3/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/24665b/00000000000000007735e5c3/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+    font-display:auto;font-style:normal;font-weight:300;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/4363ba/00000000000000007735e5c8/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/4363ba/00000000000000007735e5c8/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/4363ba/00000000000000007735e5c8/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+    font-display:auto;font-style:normal;font-weight:700;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/681069/00000000000000007735e5ca/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/681069/00000000000000007735e5ca/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/681069/00000000000000007735e5ca/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display:auto;font-style:normal;font-weight:400;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/170fca/00000000000000007735e5c7/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/170fca/00000000000000007735e5c7/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/170fca/00000000000000007735e5c7/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+    font-display:auto;font-style:italic;font-weight:300;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/d985cf/00000000000000007735e5c4/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/d985cf/00000000000000007735e5c4/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/d985cf/00000000000000007735e5c4/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+    font-display:auto;font-style:italic;font-weight:700;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/4ab9e7/00000000000000007735e5cf/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("woff2"),url("https://use.typekit.net/af/4ab9e7/00000000000000007735e5cf/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("woff"),url("https://use.typekit.net/af/4ab9e7/00000000000000007735e5cf/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i2&v=3") format("opentype");
+    font-display:auto;font-style:italic;font-weight:200;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/536ca5/00000000000000007735e5cb/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/536ca5/00000000000000007735e5cb/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/536ca5/00000000000000007735e5cb/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display:auto;font-style:italic;font-weight:400;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/6013ad/00000000000000007735e5cd/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff2"),url("https://use.typekit.net/af/6013ad/00000000000000007735e5cd/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff"),url("https://use.typekit.net/af/6013ad/00000000000000007735e5cd/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("opentype");
+    font-display:auto;font-style:italic;font-weight:500;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/19d3ae/00000000000000007735e5c5/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/19d3ae/00000000000000007735e5c5/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/19d3ae/00000000000000007735e5c5/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
+    font-display:auto;font-style:normal;font-weight:900;
+    }
+    
+    @font-face {
+    font-family:"natom-pro";
+    src:url("https://use.typekit.net/af/bf5580/00000000000000007735e5c6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff2"),url("https://use.typekit.net/af/bf5580/00000000000000007735e5c6/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff"),url("https://use.typekit.net/af/bf5580/00000000000000007735e5c6/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("opentype");
+    font-display:auto;font-style:italic;font-weight:900;
+    }
+* {
+    font-family: 'natom-pro', sans-serif;
+}
+body {
+    line-height: 1;
+    background: rgb(29, 29, 29);
+    color: #ffffff;
+}
+h1{font-size: 72px;}
+h2{font-size: 60px;}
+h3{font-size: 42px;}
+h4{font-size: 36px;}
+h5{font-size: 30px;}
+#header{
+    background-color: rgb(46, 46, 49) ;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    top: 0;
+}
+.header--content{
+    display: flex;
+    align-items: center;
+    padding-left: 33px;
+    padding-right: 38px;
+    justify-content: space-between;
+}
+.navbar-nav a{
+    font-size: 22px;
+}
+.navbar-nav a{
+    color: rgb(255, 255, 255) !important;
+    padding: 34px 20px !important;
+    border-top: 6px solid transparent;
+}
+.navbar-nav a img {
+    width: 20px;
+    height: 20px;
+    margin-right: 6px;
+}
+.navbar-brand{
+    margin: 0;
+}
+#header .container-fluid{
+    padding: 0;
+}
+.navbar-nav a:hover{
+    background: rgb(54, 54, 57);
+    border-top: 6px solid rgb(255, 69, 81);
+}
+ul.dropdown-menu.show{
+    background-color: rgb(17, 26, 64);
+}
+ul.dropdown-menu.show a{
+    padding: 15px 25px !important;
+}
+.dropdown-menu{
+    background-color: rgb(17, 26, 64);
+    padding: 0px;
+}
+.dropdown-menu:hover .dropdown-menu {
+    background-color: rgb(17, 26, 64);
+}
+.dropdown-menu a{
+    padding: 15px 25px !important;
+}
+.navbar{
+    padding: unset;
+}
+nav.navbar{
+    width: 100%;
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+.collapse.navbar-collapse{
+    justify-content: center;
+    margin-left: -32px;
+}
+a{
+    text-decoration: none;
+}
+.enter-dApp-button button{
+    border-radius: 10px;
+    background: linear-gradient(
+    105deg, rgb(255, 65, 108) 0%, rgb(255, 75, 43) 100%) 0% 0% no-repeat padding-box padding-box transparent;
+    color: #ffffff;
+    padding: 10px 16px;
+    transition: background-color 0.2s ease 0s, opacity 0.2s ease 0s;
+    letter-spacing: 0.03em;
+    font-size: 16px;
+    font-family: inherit;
+    cursor: pointer;
+    font-weight: 600;
+    line-height: 1;
+    border: unset;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.wallet-icon {
+    margin-right: 10px;
+}
+.btn-primary:hover, .btn-primary:focus {
+    border-color: white !important;
+    background-color: unset !important;
+    box-shadow: unset !important;
+}
+.enter-dApp-button button:hover{
+    color: #ffffff;
+    opacity: 0.7;
+}
+.navbar-nav .nav-link.active{
+    background: rgb(1, 9, 41);
+    border-top: 6px solid rgb(255, 65, 108);
+}
+.enter-dApp-button{
+    width: 250px;
+}
+.navbar-brand{
+    width: 182px;
+}
+.main-padding{
+    padding: 0 80px;
+}
+#banner{
+    margin-top: 120px;
+}
+.banner-bg-img{
+    background-image: url('../images/banner.png');
+    position: relative;
+    height: 915px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.banner-content{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 45%;
+    right: 0px;
+    position: absolute;
+}
+.banner-content h1{
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: 1;
+    line-height: 1.1;
+    margin: 0;
+}
+.currency-color{
+    color: rgb(253, 65, 108);
+}
+.banner-content p {
+    font-size: 24px;
+    line-height: 36px;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-bottom: 50px;
+    padding-right: 80px;
+}
+.banner-dApp-btn button{
+    background: linear-gradient(104deg, rgb(255, 65, 108) 0%, rgb(255, 75, 43) 100%) 0% 0% no-repeat padding-box padding-box transparent;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: normal;
+    box-shadow: none;
+    border: none;
+    border-radius: 10px;
+    padding: 23px 30px;
+    line-height: 26px;
+    margin-right: 30px;
+}
+.banner-buy-ritz button{
+    background: transparent;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: normal;
+    box-shadow: none;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 20px 30px;
+    line-height: 26px;
+}
+.btn-check:focus+.btn, .btn:focus{
+    box-shadow: none;
+}
+.banner-dApp-btn button:hover{
+    opacity: 0.7;
+    color: #ffffff;
+}
+.info-numbers-content{
+    border: 1px solid rgba(156, 128, 128, 0.3);
+    border-radius: 40px;
+    opacity: 1;
+    backdrop-filter: blur(20px); 
+    border-bottom: none;
+}
+.gallery--info{
+    text-align: center;
+    border-right: 1px solid rgba(156, 128, 128, 0.3);
+    margin: 100px 0;
+}
+.gallery--info-h h1{
+    font-weight: 600;
+    line-height: 1.1;
+    margin: 0;
+}
+.gallery--info-p p{
+    font-weight: 300;
+    letter-spacing: 0px;
+    color: rgb(255, 255, 255);
+    opacity: 0.6;
+    font-size: 30px;
+    margin: 0px;
+    line-height: 1.5;
+}
+.how-it-works-wrapper{
+    max-width: 1370px;
+    margin: 0 auto;
+}
+#info-numbers{
+    margin-bottom: 50px;
+}
+.sec-heading{
+    margin: 0 100px;
+    padding: 90px 0;
+    text-align: center;
+}
+.bg-text-shadow{
+    font-size: 174px;
+    line-height: 126px;
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(255, 255, 255);
+    opacity: 0.08;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 12px;
+    z-index: -1;
+    background: text transparent;
+}
+.how-it-works-wrapper{
+    position: relative;
+}
+.sec-heading h2 {
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+.sec-heading p {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+.works-content-wrapper{
+    background: rgb(17, 26, 64);
+    padding: 50px;
+}
+.works-wrapper-p{
+    font-size: 24px;
+    line-height: 36px;
+}
+.what-is-ritzcoin-wrapper{
+    position: relative;
+}
+#what-is-ritzcoin{
+    margin-bottom: 120px;
+}
+#how-it-works{
+    margin-bottom: 120px;
+}
+.riztcoin-heading{
+    padding-top: 90px;
+}
+.riztcoin-heading h2{
+    margin: 0;
+}
+.riztcoin-body-content h5{
+    line-height: 54px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+.riztcoin-body-content p{
+    font-size: 30px;
+    line-height: 42px;
+    color: rgba(255, 255, 255, 0.75);
+    margin-bottom: 40px;
+}
+.riztcoin-body-content{
+    margin-top: 50px;
+}
+.ritzcoin-img-wrapper{
+    text-align: center;
+}
+.ritzcoin-inner-information h5{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.ritzcoin-inner-information p{
+    color: rgb(255, 255, 255);
+    opacity: 0.75;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-bottom: 32px;
+}
+.ritzcoin-work-details{
+    text-align: center;
+}
+.ritzcoin-work-container{
+    margin-top: 50px;
+}
+.ritzcoin-inner-information {
+    margin-top: 30px;
+    padding: 23px 70px;
+}
+.tokenomics-sec-heading{
+    text-align: center;
+    position: relative;
+    padding: 90px 0px;
+    max-width: 1170px;
+    margin: 0px auto;
+}
+.tokenomics-sec-heading h2{
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+.tokenomics-sec-heading p{
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+.left-items .content.left-top h3,
+.left-items .content.left-bottom h3,
+.right-items .content.right-top h3,
+.right-items .content.right-bottom h3{
+    font-weight: bold;
+    color: rgb(255, 65, 108);
+    margin-bottom: 10px;
+}
+.left-items .content.left-top h5,
+.left-items .content.left-bottom h5,
+.right-items .content.right-top h5,
+.right-items .content.right-bottom h5{
+    margin-bottom: 30px;
+}
+.left-items .content.left-bottom p,
+.right-items .content.right-top p,
+.right-items .content.right-bottom p{
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.6);
+    line-height: 36px;
+}
+.img-items-section{
+    justify-content: center;
+    align-items: center;
+}
+.left-items{
+    text-align: right;
+    padding-right: 35px;
+}
+.right-items{
+    text-align: left;
+    padding-top: 150px;
+    padding-left: 35px;
+}
+#tokenomics{
+    margin-bottom: 48px;
+}
+.bridge-content-container{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    margin: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#bridge{
+    position: relative;
+    margin-bottom: 120px;
+}
+.bridge-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.bridge-content .accepted,
+.bridge-content .stakeble{
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 1.1;
+    color: rgb(97, 247, 208);
+}
+.bridge img{
+    width: 100%;
+}
+.bridge-content .currency{
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 1.1;
+}
+.tokens-text h2{
+    color: rgb(255, 65, 108);
+    font-size: 55px;
+    font-weight: 600;
+    line-height: 1.1;
+}
+.roadmap-sec-heading{
+    text-align: center;
+    position: relative;
+    padding: 90px 0px;
+    max-width: 1170px;
+    margin: 0px auto;
+}
+.roadmap-sec-heading h2{
+    font-weight: bold;
+    margin-bottom: 35px
+}
+.roadmap-sec-heading p{
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+.roadmap-img{
+    text-align: center;
+}
+#roadmap{
+    margin-bottom: 120px;
+}
+.get-in-touch-sec-heading h2{
+    font-weight: bold;
+}
+.ritzcoin-img{
+    padding-top: 90px;
+}
+.get-in-touch-sec-heading p{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 30px;
+    line-height: 42px;
+}
+#get-in-touch{
+    position: relative;
+}
+.get-in-touch-sec-heading{
+    padding: 90px 0;
+}
+#get-in-touch .bg-text-shadow{
+    padding-left: 80px;
+}
+.git-list{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.git-item{
+    background: rgb(17, 26, 64);
+    padding: 35px 50px;
+    margin-bottom: 20px;
+    max-width: 700px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.git-item-content h3{
+    margin-bottom: 10px;
+}
+.git-item-content p{
+    font-size: 24px;
+}
+.custom-border-transparent button{
+    color: rgb(255, 65, 108);
+    border: 1px solid rgb(255, 65, 108);
+    font-weight: 500;
+    background: transparent;
+    font-size: 22px;
+    box-shadow: none;
+    border-radius: 10px;
+    padding: 15px 30px;
+    line-height: 26px;
+}
+.limit-order-sec-heading h2{
+    font-weight: bold;
+    padding-top: 90px;
+    padding-bottom: 60px;
+}
+.limit-order-sec-heading p{
+    font-size: 24px;
+    line-height: 36px;
+}
+.limit-order-sec-heading{
+    padding-left: 120px;
+}
+#get-in-touch, #limit-order{
+    margin-bottom: 120px;
+}
+.ritzcoin-app-sec-heading{
+    margin-bottom: 80px;
+    padding-top: 90px;
+}
+.ritzcoin-app-sec-heading h2{
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+.ritzcoin-app-sec-heading p{
+    font-size: 24px;
+    line-height: 36px;
+}
+#ritzcoin-app .bg-text-shadow{
+    padding-left: 80px;
+}
+.ritzcoin-app-btn button{
+    background: linear-gradient(104deg, rgb(255, 65, 108) 0%, rgb(255, 75, 43) 100%) 0% 0% no-repeat padding-box padding-box transparent;
+    font-size: 22px;
+    font-weight: normal;
+    box-shadow: none;
+    border: none;
+    border-radius: 10px;
+    padding: 15px 30px;
+    color: #ffffff;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+}
+#ritzcoin-app{
+    margin-bottom: 120px;
+    position: relative;
+}
+#faqs{
+    position: relative;
+}
+.custom-border-transparent button:hover{
+    color: rgb(255, 65, 108);
+}
+.faqs-custom-container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.faqs-sec-heading h2{
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+.faqs-sec-heading{
+    padding: 90px 0;
+    text-align: center;
+}
+.accordion-button{
+    background-color: rgb(1, 9, 41);
+}
+.accordion-button:focus{
+    box-shadow: none;
+}
+.accordion-item{
+    border-bottom: 1px solid #ffffff;
+    background-color: unset;
+}
+.accordion-header button{
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.accordion-button:not(.collapsed) {
+    color: #ffffff;
+    background-color: rgb(1, 9, 41);
+    box-shadow: unset;
+}
+.accordion-body{
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.75);
+    margin-bottom: 50px;
+    line-height: 42px;
+    padding: 0;
+}
+.accordion-button{
+    padding: 0;
+}
+.accordion-button::after{
+    background-image: url('../images/faqs-arrow.svg');
+    width: 2.25rem;
+    background-size: 2.25rem;
+}
+.accordion-button:not(.collapsed)::after {
+    background-image: url('../images/faqs-arrow.svg');
+    transform: rotate(-180deg);
+}
+#faqs{
+    margin-bottom: 120px;
+}
+.giveaways-custom-container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.giveaways-body-content{
+    text-align: center;
+    padding: 48px 32px;
+}
+.giveaways-body-content h2{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.1;
+}
+.giveaways-body-content button{
+    background: linear-gradient(104deg, rgb(255, 65, 108) 0%, rgb(255, 75, 43) 100%) 0% 0% no-repeat padding-box padding-box transparent;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    font-weight: normal;
+    box-shadow: none;
+    border: none;
+    border-radius: 10px;
+    padding: 22px 30px;
+    line-height: 26px;
+    margin-top: 50px;
+}
+#giveaways{
+    margin-bottom: 150px;
+}
+#footer .main-padding{
+    padding: 42px 80px;
+}
+#footer{
+    background: rgb(17, 26, 64);
+}
+.footer-logo{
+    margin-bottom: 40px;
+}
+.footer-para p{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.footer-navbar{
+    padding: 0;
+}
+.footer-navbar li{
+    list-style: none;
+}
+.footer-col h6{
+    font-weight: 600;
+    line-height: 1.1;
+    font-size: 24px;
+    color: rgb(255, 65, 108);
+    margin-bottom: 45px;
+}
+.footer-navbar li{
+    margin-bottom: 25px !important;
+}
+.footer-navbar li a{
+    font-weight: normal;
+    font-size: 22px;
+    color: #ffffff;
+}
+.footer-navbar li a:hover{
+    text-decoration: underline;
+}
+.footer-col.links{
+    margin-left: 120px;
+    padding-top: 25px;
+}
+.copyright-services{
+    text-align: center;
+}
+hr{
+    margin: 0;
+}
+.copyright-services p{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+}
+.copyright-services p a{
+    color: #ffffff;
+}
+.works-content-wrapper{
+    height: 100%;
+}
+.mobile-section{
+    display: none;
+}
+.banner-buy-ritz button:hover{
+    color: rgb(255, 65, 108);
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+ .dropdown:hover  ul.dropdown-menu{
+    background-color: rgb(17, 26, 64);
+}
+.dropdown:hover ul.dropdown-menu li a{
+    padding: 15px 25px !important;
+}
+.dropdown-toggle::after{
+    display: none;
+}
+.join-our-community-btn button:hover{
+    color: #ffffff;
+    opacity: 0.7;
+}
+.footer-col.address h6{
+    margin-bottom: 60px;
+}
+.works-wrapper-h h5{
+    margin-bottom: 30px;
+}
+.footer-col.address{
+    padding-top: 40px;
+    margin-left: 60px;
+}
+.footer-social-links{
+    padding: 48px 80px;
+    border-bottom: 1px solid #000;
+}
+.footer-social-links-list .icon-list{
+    flex-wrap: wrap;
+}
+.ritzcoin-app-btn button:hover{
+    color: #ffffff;
+    opacity: 0.7;
+}
+::-webkit-scrollbar {
+    width: 7px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+    border: 1px solid rgb(255, 65, 108);
+}
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(105deg, rgb(255, 65, 108) 0%, rgb(255, 75, 43) 100%) 0% 0% no-repeat padding-box padding-box transparent;
+    border-radius: 20px;
+}
+
+
+/* ========================================= media queries====================== */
+
+@media (max-width: 1590px) {
+    .navbar-nav a{
+        padding: 34px 12px !important;
+    }
+    h1{
+        font-size: 54px;
+    }
+    .banner-content p{
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .banner-bg-img{
+        height: 750px;
+    }
+    .enter-dApp-button {
+        width: 270px;
+    }
+    .navbar-nav a{
+        font-size: 20px;
+    }
+    .bg-text-shadow{
+        font-size: 145px;
+    }
+    h3{
+        font-size: 34px;
+    }
+    h5{
+        font-size: 24px;
+    }
+}
+@media (max-width: 1399.98px) {
+    .main-padding{
+        padding: 0 40px;
+    }
+    .limit-order-sec-heading{
+        padding-left: 60px;
+    }
+    .sec-heading{
+        margin: 0 13px;
+    }
+    #info-numbers{
+        margin-bottom: unset;
+    }
+    #how-it-works, #bridge{
+        margin-bottom: 60px;
+    }
+    .footer-para p{
+        font-size: 18px;
+    }
+    .footer-col.links{
+        margin-left: 60px;
+    }
+    .footer-col.address{
+        margin-left: 30px;
+    }
+    .banner-content{
+        width: 50%;
+    }
+    .banner-bg-img{
+        height: 600px;
+    }
+    .banner-content p{
+        padding-right: unset;
+    }
+    .banner-dApp-btn button, .banner-buy-ritz button{
+        padding: 16px 28px;
+    }
+    #ritzcoin-app .bg-text-shadow{
+        padding-left: 50px;
+    }
+    .navbar-nav a{
+        padding: 34px 12px !important;
+    }
+    .bg-text-shadow{
+        font-size: 131px;
+    }
+    #get-in-touch .bg-text-shadow{
+        padding-left: 50px;
+    }
+    #footer .main-padding{
+        padding: 48px 40px;
+    }
+    .header--content{
+        padding: unset;
+    }
+    .navbar-nav a {
+        font-size: 17px;
+    }
+    .works-content-wrapper{
+        padding: 25px;
+    }
+    .bg-text-shadow{
+        top: 29px;
+    }
+    #what-is-ritzcoin{
+        margin-bottom: 60px;
+    }
+    .footer-social-links {
+        padding: 48px 40px;
+    }
+}
+@media (max-width: 1199.98px){
+    .enter-dApp-button {
+        width: 375px;
+    }
+    .gallery--info{
+        margin: 40px 0;
+    }
+    .navbar-nav a{
+        padding: 34px 6px !important;
+    }
+    .bg-text-shadow {
+        top: 22px;
+    }
+    .navbar-nav a {
+        font-size: 15px;
+    }
+    h1{
+        font-size: 45px;
+    }
+    .banner-content p{
+        margin-top: 20px;
+    }
+    .main-padding{
+        padding: 0 20px;
+    }
+    .bg-text-shadow {
+        font-size: 100px;
+    }
+    .riztcoin-body-content h5{
+        line-height: 35px
+    }
+    .ritzcoin-inner-information{
+        padding: 14px 20px;
+    }
+    .git-item{
+        padding: 26px 20px;
+    }
+    .limit-order-sec-heading{
+        padding-left: unset;
+    }
+    .limit-order-sec-heading h2{
+        padding-top: unset;
+        padding-bottom: 30px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    #info-numbers{
+        margin-bottom: unset;
+    }
+    .works-wrapper-p {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    #how-it-works, #what-is-ritzcoin, #bridge, #ritzcoin-app{
+        margin-bottom: 30px;
+    }
+    .bridge-content .accepted, .bridge-content .stakeble, .bridge-content .currency{
+        font-size: 45px;
+    }
+    .tokens-text h2{
+        font-size: 40px;
+    }
+    .faqs-sec-heading{
+        padding-bottom: 0;
+    }
+    .giveaways-body-content h2{
+        font-size: 45px;
+    }
+    #footer .main-padding {
+        padding: 48px 20px;
+    }
+    #get-in-touch .bg-text-shadow {
+        padding-left: 24px;
+    }
+    .footer-social-links-list .icon-list{
+        justify-content: unset !important;
+    }
+    .footer-social-links-list .icon-list .icon{
+        width: 25%;
+        padding-bottom: 10px;
+    }
+}
+@media (max-width: 991.98px){
+    .enter-dApp-button{
+        position: absolute;
+        top: 13px;
+        right: 0;
+    }
+    .navbar-toggler{
+        position: relative;
+        right: 170px;
+    }
+    .navbar-light .navbar-toggler-icon{
+        background-image: url('../images/mobile-toggle.svg');
+    }
+    .navbar-toggler{
+        font-size: 2.60rem;
+    }
+    .navbar-nav a {
+        font-size: 20px;
+    }
+    .banner-bg-img {
+        height: 500px;
+    }
+    .gallery--info {
+        margin: 20px 0;
+    }
+    .navbar-nav a{
+        padding: 20px 12px !important;
+    }
+    h1{
+        font-size: 30px;
+    }
+    .banner-content p {
+        font-size: 17px;
+        line-height: 28px;
+        padding-top: unset;
+    }
+    .banner-dApp-btn button, .banner-buy-ritz button{
+        font-size: 18px;
+        padding: 7px 15px;
+    }
+    .collapse.navbar-collapse{
+        margin-left: unset;
+    }
+    .banner-content p{
+        margin-bottom: unset;
+    }
+    .sec-heading{
+        margin: 0;
+    }
+    .bg-text-shadow {
+        top: 28px;
+    }
+    #giveaways{
+        margin-bottom: 70px;
+    }
+    .giveaways-body-content button{
+        font-size: 18px;
+        padding: 15px 15px;
+    }
+    .bg-text-shadow{
+        font-size: 85px;
+    }
+    .tokenomics-sec-heading{
+        padding-bottom: 0;
+    }
+    .bridge-content .accepted, .bridge-content .stakeble, .bridge-content .currency{
+        font-size: 34px;
+    }
+    .works-content-wrapper{
+        height: 100%;
+    }
+    .footer-social-links-list .icon-list .icon {
+        width: 33%;
+        padding-bottom: 10px;
+    }
+    .footer-social-links {
+        padding: 38px 20px;
+    }
+    .gallery--info{
+        border-right: none;
+    }
+    .navbar-brand{
+        margin-left: 25px;
+    }
+}
+@media (max-width: 767.98px){
+    h1{
+        font-size: 27px;
+    }
+    .banner-content p{
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: unset;
+        margin-bottom: 10px;
+    }
+    .banner-bg-img{
+        height: 400px;
+    }
+    .gallery--info{
+        margin: 30px 0;
+    }
+    #info-numbers{
+        margin-top: 30px;
+    }
+    #info-numbers{
+        margin-bottom: 30px;
+    }
+    .banner-bg-img {
+        height: 350px;
+    }
+    .footer-navbar li {
+        margin-bottom: 15px !important;
+    }
+    #ritzcoin-app .bg-text-shadow {
+        padding-left: 18px;
+    }
+    .ritzcoin-app-sec-heading h2{
+        margin-bottom: 20px;
+    }
+    .footer-col.address{
+        margin-left: unset;
+        padding-top: unset;
+    }
+    .footer-col.address h6{
+        margin-bottom: 10px;
+    }
+    h2{
+        font-size: 22px;
+    }
+    .sec-heading p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    #how-it-works .row .col-md-4{
+        margin-bottom: 10px;
+    }
+    h5{
+        font-size: 20px;
+    }
+    .works-wrapper-p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .bg-text-shadow {
+        font-size: 60px;
+    }
+    .riztcoin-body-content p, .tokenomics-sec-heading p{
+        font-size: 17px;
+        line-height: 22px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    h5{
+        font-size: 15px;
+    }
+    .left-items .content.left-bottom p, .right-items .content.right-top p, .right-items .content.right-bottom p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .left-items .content.left-top h3, .left-items .content.left-bottom h3, .right-items .content.right-top h3, .right-items .content.right-bottom h3{
+        margin-bottom: 0;
+    }
+    .left-items .content.left-top h5, .left-items .content.left-bottom h5, .right-items .content.right-top h5, .right-items .content.right-bottom h5{
+        margin-bottom: 10px;
+    }
+    .left-items{
+        padding-right: 10px;
+    }
+    .right-items{
+        padding-left: 10px;
+    }
+    .bridge-content .accepted, .bridge-content .stakeble, .bridge-content .currency{
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .tokens-text h2{
+        font-size: 22px;
+    }
+    .gallery--info-p p{
+        font-size: 20px;
+    }
+    .roadmap-sec-heading p, .get-in-touch-sec-heading p, .limit-order-sec-heading p, .ritzcoin-app-sec-heading p{
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .roadmap-sec-heading, .get-in-touch-sec-heading{
+        padding-bottom: 30px;
+    }
+    .git-item-content p{
+        font-size: 17px;
+    }
+    .git-item {
+        padding: 15px 15px;
+    }
+    .custom-border-transparent button{
+        padding: 8px 15px;
+    }
+    #get-in-touch, #limit-order{
+        margin-bottom: 30px;
+    }
+    .ritzcoin-app-sec-heading{
+        margin-bottom: 30px;
+    }
+    .ritzcoin-app-btn{
+        margin-bottom: 30px;
+    }
+    .ritzcoin-app-btn button{
+        font-size: 16px;
+        padding: 8px 16px;
+    }
+    h4{
+        font-size: 21px;
+    }
+    .accordion-body{
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .accordion-button{
+        margin-top: 25px !important;
+        margin-bottom: 25px !important;
+    }
+    .accordion-button::after {
+        width: 1.25rem;
+        background-size: 1.25rem;
+    }
+    .giveaways-body-content h2{
+        font-size: 22px;
+    }
+    .giveaways-body-content{
+        padding: 0;
+    }
+    .giveaways-body-content button{
+        padding: 8px 16px;
+        font-size: 17px;
+        margin-top: 15px;
+    }
+    .footer-para p{
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .footer-col.links{
+        margin-left: unset;
+    }
+    .footer-col h6{
+        margin-bottom: 20px;
+    }
+    .footer-navbar li a, .copyright-services p{
+        font-size: 17px;
+    }
+    #footer .main-padding {
+        padding: 20px 10px;
+    }
+    .main-padding {
+        padding: 0 10px;
+    }
+    .bg-text-shadow {
+        top: 22px;
+    }
+    #roadmap{
+        margin-bottom: unset;
+    }
+    .footer-social-links {
+        padding: 20px 10px;
+    }
+    .footer-social-links-list .icon-list .icon {
+        width: 50%;
+    }
+    .how-it-works-wrapper .sec-heading{
+        padding-bottom: 30px;
+    }
+    .works-wrapper-h h5 {
+        margin-bottom: unset;
+    }
+    .works-wrapper-p p{
+        margin-bottom: unset;
+    }
+    .riztcoin-body-content{
+        margin-top: 30px;
+    }
+    .riztcoin-body-content h5 {
+        line-height: 22px;
+    }
+    .ritzcoin-img-wrapper img{
+        width: 250px;
+    }
+    .photo-gallary img{
+        width: 150px;
+    }
+    .ritzcoin-inner-information p{
+        font-size: 16px;
+    }
+    .tokenomics-img img{
+        width: 350px;
+    }
+    .git-item-content p{
+        margin-bottom: 0;
+    }
+    .custom-border-transparent button{
+        font-size: 18px;
+    }
+    .limit-order-sec-heading h2{
+        padding-bottom: 0;
+    }
+}
+@media (max-width: 575.98px){
+    .navbar-toggler {
+        position: relative;
+        right: 125px;
+        border: 0;
+    }
+    .navbar-brand{
+        margin-left: 15px;
+    }
+    .bg-text-shadow {
+        top: 33px;
+    }
+    .enter-dApp-button {
+        width: 117px;
+    }
+    .enter-dApp-button button {
+        padding: 12px 9px;
+        font-size: 14px;
+    }
+    .enter-dApp-button{
+        top: 7px;
+    }
+    .navbar-brand img{
+        width: 110px;
+    }
+    .footer-navbar li a, .copyright-services p {
+        font-size: 15px;
+    }
+    .navbar-brand {
+        width: 110px !important;
+    }
+    .navbar-toggler{
+        padding: 0;
+        font-size: 2.2rem;
+    }
+    .main-padding {
+        padding: 0;
+    }
+    .banner-content{
+        width: 100%;
+        top: 50px;
+    }
+    .banner-bg-img{
+        height: 500px;
+    }
+    #ritzcoin-app .bg-text-shadow {
+        padding-left: 10px;
+    }
+    .ritzcoin-img{
+        padding-top: 0;
+    }
+    #info-numbers, #how-it-works, #what-is-ritzcoin,#bridge,#limit-order{
+        margin-bottom: 0;
+    }
+    #get-in-touch .bg-text-shadow {
+        padding-left: 10px;
+    }
+    .bg-text-shadow {
+        font-size: 35px;
+    }
+    .right-items{
+        padding-top: unset;
+    }
+    .riztcoin-body-content h5 {
+        line-height: 22px;
+        margin-bottom: 10px;
+    }
+    .riztcoin-body-content p{
+        margin-bottom: 22px;
+    }
+    .bridge-content .accepted, .bridge-content .stakeble, .bridge-content .currency{
+        font-size: 14px;
+        line-height: 12px;
+    }
+    .tokens-text h2 {
+        font-size: 15px;
+    }
+    .sec-heading p{
+        text-align: left;
+    }
+    .works-content-wrapper {
+        padding: 15px;
+    }
+    .git-item-content p {
+        font-size: 15px;
+    }
+    .custom-border-transparent button {
+        padding: 4px 12px;
+        font-size: 17px;
+    }
+    .ritzcoin-img-wrapper img{
+        width: 200px;
+    }
+    .photo-gallary img{
+        width: 200px;
+    }
+    .how-it-works-wrapper .sec-heading{
+        padding-bottom: 30px;
+    }
+    .roadmap-img{
+        display: none;
+    }
+    .mobile-section{
+        display: unset;
+    }
+    .map-list .map-item {
+        margin-bottom: 50px;
+        display: flex;
+        color: rgb(255, 255, 255);
+        justify-content: start;
+        align-items: center;
+    }
+    .map-item .date {
+        width: 100px;
+        height: 100px;
+        background: rgb(0, 0, 0);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        font-size: 18px;
+        text-align: center;
+        padding: 10px;
+        margin-right: 10px;
+    }
+    .map-item .item-list ul {
+        list-style: none;
+        padding: 0px;
+    }
+    .map-item .item-list ul li {
+        margin-bottom: 6px;
+        font-size: 14px;
+        font-weight: normal;
+    }
+    .map-item .date.orange {
+        background: rgb(255, 75, 43);
+    }
+    .map-item .date.blue {
+        background: rgb(97, 247, 208);
+        color: rgb(0, 0, 0);
+    }
+    .map-item .date.pink {
+        background: rgb(255, 65, 108);
+    }
+    .map-item .date.yellow {
+        background: rgb(254, 204, 47);
+        color: rgb(0, 0, 0);
+    }
+    .footer-social-links-list .icon-list .icon img{
+        width: 110px;
+    }
+}
+
+
+
+
+.bridge .form-wrapper {
+    max-width: 600px;
+    margin: 150px auto 0;
+}

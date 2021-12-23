@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="452.375" height="455.05" viewBox="0 0 452.375 455.05">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff416c"/>
+      <stop offset="1" stop-color="#ff4b2b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2407" data-name="Group 2407" transform="translate(0 -0.117)">
+    <ellipse id="Ellipse_125" data-name="Ellipse 125" cx="226" cy="227.5" rx="226" ry="227.5" transform="translate(0.188 0.167)" fill="#fff"/>
+    <path id="R_Logo" data-name="R Logo" d="M742.647,688.814a25.708,25.708,0,0,1-25.6,25.758H578.561l137.657,215.3a224.13,224.13,0,0,1-33.038,8.649l-143.2-223.953H463.629l143.736,224.8c-108.107-17.1-190.793-111.23-190.793-224.8a229.293,229.293,0,0,1,5.827-51.517H717.045A25.708,25.708,0,0,1,742.647,688.814ZM642.759,487C560,487,487.63,531.713,448.2,598.438H717.045c49.522,0,89.817,40.542,89.817,90.376s-40.3,90.375-89.817,90.375H696.237l77.38,121.028a227.711,227.711,0,0,0,95.33-185.645C868.946,588.884,767.682,487,642.759,487Z" transform="translate(-416.571 -486.883)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

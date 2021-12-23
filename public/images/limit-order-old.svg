@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="850" height="600" viewBox="0 0 850 600">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_63" data-name="Group 63" transform="translate(-100 -3959)">
+    <path id="Path_2077" data-name="Path 2077" d="M40,3A36.967,36.967,0,0,0,3,40V560a36.967,36.967,0,0,0,37,37H810a36.967,36.967,0,0,0,37-37V40A36.967,36.967,0,0,0,810,3H40m0-3H810a40,40,0,0,1,40,40V560a40,40,0,0,1-40,40H40A40,40,0,0,1,0,560V40A40,40,0,0,1,40,0Z" transform="translate(100 3959)" opacity="0.2" fill="url(#linear-gradient)"/>
+    <g id="Group_59" data-name="Group 59" transform="translate(42 -437)">
+      <g id="Group_35" data-name="Group 35" transform="translate(133 4698)">
+        <rect id="Rectangle_39" data-name="Rectangle 39" width="20" height="75" rx="3" transform="translate(0 11)" fill="#ca3b5d"/>
+        <rect id="Rectangle_40" data-name="Rectangle 40" width="2" height="11" transform="translate(9 85)" fill="#ca3b5d"/>
+        <rect id="Rectangle_41" data-name="Rectangle 41" width="2" height="12" transform="translate(9)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_36" data-name="Group 36" transform="translate(163 4712)">
+        <rect id="Rectangle_43" data-name="Rectangle 43" width="20" height="75" rx="3" transform="translate(0 11)" fill="#69f8d2"/>
+        <rect id="Rectangle_44" data-name="Rectangle 44" width="2" height="7" transform="translate(9 85)" fill="#69f8d2"/>
+        <rect id="Rectangle_42" data-name="Rectangle 42" width="2" height="12" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_37" data-name="Group 37" transform="translate(192 4729)">
+        <rect id="Rectangle_46" data-name="Rectangle 46" width="20" height="70" rx="3" transform="translate(0 12)" fill="#ca3b5d"/>
+        <rect id="Rectangle_45" data-name="Rectangle 45" width="2" height="7" transform="translate(9 81)" fill="#ca3b5d"/>
+        <rect id="Rectangle_47" data-name="Rectangle 47" width="2" height="12" transform="translate(9)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_38" data-name="Group 38" transform="translate(371.649 4641)">
+        <rect id="Rectangle_80" data-name="Rectangle 80" width="20" height="70" rx="3" transform="translate(0 12)" fill="#ca3b5d"/>
+        <rect id="Rectangle_82" data-name="Rectangle 82" width="2" height="7" transform="translate(9 81)" fill="#ca3b5d"/>
+        <rect id="Rectangle_81" data-name="Rectangle 81" width="2" height="12" transform="translate(9)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_39" data-name="Group 39" transform="translate(400.606 4654)">
+        <rect id="Rectangle_80-2" data-name="Rectangle 80" width="20" height="70" rx="3" transform="translate(0 12)" fill="#ca3b5d"/>
+        <rect id="Rectangle_82-2" data-name="Rectangle 82" width="2" height="7" transform="translate(9 81)" fill="#ca3b5d"/>
+        <rect id="Rectangle_81-2" data-name="Rectangle 81" width="2" height="12" transform="translate(9)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_40" data-name="Group 40" transform="translate(428.565 4673)">
+        <rect id="Rectangle_80-3" data-name="Rectangle 80" width="20" height="70" rx="3" transform="translate(0 12)" fill="#69f8d2"/>
+        <rect id="Rectangle_82-3" data-name="Rectangle 82" width="2" height="7" transform="translate(9 81)" fill="#69f8d2"/>
+        <rect id="Rectangle_81-3" data-name="Rectangle 81" width="2" height="12" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_41" data-name="Group 41" transform="translate(457.523 4642)">
+        <rect id="Rectangle_80-4" data-name="Rectangle 80" width="20" height="70" rx="3" transform="translate(0 12)" fill="#69f8d2"/>
+        <rect id="Rectangle_82-4" data-name="Rectangle 82" width="2" height="7" transform="translate(9 81)" fill="#69f8d2"/>
+        <rect id="Rectangle_81-4" data-name="Rectangle 81" width="2" height="12" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_42" data-name="Group 42" transform="translate(485.482 4638)">
+        <rect id="Rectangle_80-5" data-name="Rectangle 80" width="20" height="70" rx="3" transform="translate(0 12)" fill="#69f8d2"/>
+        <rect id="Rectangle_82-5" data-name="Rectangle 82" width="2" height="7" transform="translate(9 81)" fill="#69f8d2"/>
+        <rect id="Rectangle_81-5" data-name="Rectangle 81" width="2" height="12" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_43" data-name="Group 43" transform="translate(514.439 4685)">
+        <rect id="Rectangle_80-6" data-name="Rectangle 80" width="20" height="70" rx="3" transform="translate(0 12)" fill="#69f8d2"/>
+        <rect id="Rectangle_82-6" data-name="Rectangle 82" width="2" height="7" transform="translate(9 81)" fill="#69f8d2"/>
+        <rect id="Rectangle_81-6" data-name="Rectangle 81" width="2" height="12" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_44" data-name="Group 44" transform="translate(542.398 4676)">
+        <rect id="Rectangle_80-7" data-name="Rectangle 80" width="20" height="70" rx="3" transform="translate(0 12)" fill="#ca3b5d"/>
+        <rect id="Rectangle_82-7" data-name="Rectangle 82" width="2" height="7" transform="translate(9 81)" fill="#ca3b5d"/>
+        <rect id="Rectangle_81-7" data-name="Rectangle 81" width="2" height="12" transform="translate(9)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_45" data-name="Group 45" transform="translate(571.355 4641)">
+        <rect id="Rectangle_80-8" data-name="Rectangle 80" width="20" height="70" rx="3" transform="translate(0 12)" fill="#ca3b5d"/>
+        <rect id="Rectangle_82-8" data-name="Rectangle 82" width="2" height="7" transform="translate(9 81)" fill="#ca3b5d"/>
+        <rect id="Rectangle_81-8" data-name="Rectangle 81" width="2" height="12" transform="translate(9)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_46" data-name="Group 46" transform="translate(222 4720)">
+        <rect id="Rectangle_48" data-name="Rectangle 48" width="20" height="50" rx="3" transform="translate(0 6)" fill="#69f8d2"/>
+        <rect id="Rectangle_53" data-name="Rectangle 53" width="2" height="7" transform="translate(9)" fill="#69f8d2"/>
+        <rect id="Rectangle_54" data-name="Rectangle 54" width="2" height="7" transform="translate(9 55)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_47" data-name="Group 47" transform="translate(251 4697)">
+        <rect id="Rectangle_49" data-name="Rectangle 49" width="20" height="29" rx="3" fill="#69f8d2"/>
+        <rect id="Rectangle_55" data-name="Rectangle 55" width="2" height="27" transform="translate(9 28)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_48" data-name="Group 48" transform="translate(279.784 4701)">
+        <rect id="Rectangle_50" data-name="Rectangle 50" width="20" height="19" rx="3" transform="translate(0 6)" fill="#ca3b5d"/>
+        <rect id="Rectangle_56" data-name="Rectangle 56" width="2" height="17" transform="translate(9 24)" fill="#ca3b5d"/>
+        <rect id="Rectangle_57" data-name="Rectangle 57" width="2" height="7" transform="translate(9)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_49" data-name="Group 49" transform="translate(308.742 4680)">
+        <rect id="Rectangle_51" data-name="Rectangle 51" width="20" height="15" rx="3" transform="translate(0 31)" fill="#69f8d2"/>
+        <rect id="Rectangle_58" data-name="Rectangle 58" width="2" height="8" transform="translate(9 46)" fill="#69f8d2"/>
+        <rect id="Rectangle_59" data-name="Rectangle 59" width="2" height="32" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_50" data-name="Group 50" transform="translate(338.698 4665)">
+        <rect id="Rectangle_52" data-name="Rectangle 52" width="20" height="31" rx="3" transform="translate(0 15)" fill="#69f8d2"/>
+        <rect id="Rectangle_60" data-name="Rectangle 60" width="2" height="16" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_51" data-name="Group 51" transform="translate(604.307 4691)">
+        <rect id="Rectangle_61" data-name="Rectangle 61" width="20" height="19" rx="3" transform="translate(0 7)" fill="#ca3b5d"/>
+        <rect id="Rectangle_68" data-name="Rectangle 68" width="2" height="7" transform="translate(9)" fill="#ca3b5d"/>
+        <rect id="Rectangle_69" data-name="Rectangle 69" width="2" height="16" transform="translate(9 26)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_52" data-name="Group 52" transform="translate(633.264 4694)">
+        <rect id="Rectangle_62" data-name="Rectangle 62" width="20" height="20" rx="3" transform="translate(0 16)" fill="#69f8d2"/>
+        <rect id="Rectangle_70" data-name="Rectangle 70" width="2" height="16" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_53" data-name="Group 53" transform="translate(662.222 4679)">
+        <rect id="Rectangle_63" data-name="Rectangle 63" width="20" height="20" rx="3" transform="translate(0 16)" fill="#69f8d2"/>
+        <rect id="Rectangle_71" data-name="Rectangle 71" width="2" height="16" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_54" data-name="Group 54" transform="translate(691.179 4688)">
+        <rect id="Rectangle_64" data-name="Rectangle 64" width="20" height="73" rx="3" transform="translate(0 12)" fill="#ca3b5d"/>
+        <rect id="Rectangle_72" data-name="Rectangle 72" width="2" height="12" transform="translate(9)" fill="#ca3b5d"/>
+        <rect id="Rectangle_73" data-name="Rectangle 73" width="2" height="12" transform="translate(9 84)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_55" data-name="Group 55" transform="translate(721 4740)">
+        <rect id="Rectangle_65" data-name="Rectangle 65" width="20" height="12" rx="3" transform="translate(0 32)" fill="#69f8d2"/>
+        <rect id="Rectangle_74" data-name="Rectangle 74" width="2" height="32" transform="translate(9)" fill="#69f8d2"/>
+        <rect id="Rectangle_75" data-name="Rectangle 75" width="2" height="10" transform="translate(9 44)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_56" data-name="Group 56" transform="translate(751 4683)">
+        <rect id="Rectangle_66" data-name="Rectangle 66" width="20" height="58" rx="3" transform="translate(0 27)" fill="#69f8d2"/>
+        <rect id="Rectangle_76" data-name="Rectangle 76" width="2" height="7" transform="translate(9 84)" fill="#69f8d2"/>
+        <rect id="Rectangle_77" data-name="Rectangle 77" width="2" height="27" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <g id="Group_57" data-name="Group 57" transform="translate(813 4667)">
+        <rect id="Rectangle_66-2" data-name="Rectangle 66" width="20" height="58" rx="3" transform="translate(0 27)" fill="#ca3b5d"/>
+        <rect id="Rectangle_76-2" data-name="Rectangle 76" width="2" height="7" transform="translate(9 84)" fill="#ca3b5d"/>
+        <rect id="Rectangle_77-2" data-name="Rectangle 77" width="2" height="27" transform="translate(9)" fill="#ca3b5d"/>
+      </g>
+      <g id="Group_58" data-name="Group 58" transform="translate(780 4661)">
+        <rect id="Rectangle_67" data-name="Rectangle 67" width="20" height="30" rx="3" transform="translate(0 15)" fill="#69f8d2"/>
+        <rect id="Rectangle_78" data-name="Rectangle 78" width="2" height="15" transform="translate(9)" fill="#69f8d2"/>
+      </g>
+      <rect id="Rectangle_39-2" data-name="Rectangle 39" width="260" height="260" rx="40" transform="translate(351 4566)" fill="#313450f2  "/>
+      <path id="R_Logo" data-name="R Logo" d="M513.734,547.135a7.66,7.66,0,0,1-7.629,7.675H464.84l41.018,64.155a66.786,66.786,0,0,1-9.845,2.577l-42.669-66.732H430.593L473.423,621.8a67.987,67.987,0,0,1-55.115-82.336h87.8A7.66,7.66,0,0,1,513.734,547.135ZM483.969,487A67.287,67.287,0,0,0,426,520.206H506.1a26.93,26.93,0,0,1,0,53.859h-6.2l23.057,36.063a67.852,67.852,0,0,0,28.406-55.317C551.367,517.359,521.193,487,483.969,487Z" transform="translate(-2.571 4142)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
