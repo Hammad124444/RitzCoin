@@ -40,7 +40,6 @@ const Header = () => {
         else if ("ethereum#initialized") {
             window.addEventListener('ethereum#initialized', handleEthereum, {
                 once: true,
-
             });
             window.location = 'https://metamask.app.link/dapp/192.168.1.19:3000';
             window.ethereum.request({ method: 'eth_requestAccounts' })
